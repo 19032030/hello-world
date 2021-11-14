@@ -8,4 +8,7 @@ char* StrCpy(char* src)
       n[i]=src[i];
       n[L]='\0';
     return n;
+/**
+本地编辑
+**/
 }
